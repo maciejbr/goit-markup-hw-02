@@ -15,7 +15,8 @@ body {
   text-decoration: none;
 }
 
-.logo {
+.logo-link {
+  text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -23,6 +24,9 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-logo);
+}
+.logo-header {
+  color: #2e2f42;
 }
 
 .first:hover {
