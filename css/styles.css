@@ -29,11 +29,11 @@ body {
   color: #2e2f42;
 }
 
-.first:hover {
+.first-link:hover {
   color: #404bbf;
 }
 
-.first:focus {
+.first-link:focus {
   color: #404bbf;
 }
 
