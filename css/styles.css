@@ -76,7 +76,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.contact {
+.contact-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -84,11 +84,11 @@ body {
   text-decoration: none;
 }
 
-.contact:hover {
+.contact-link:hover {
   color: #404bbf;
 }
 
-.contact:focus {
+.contact-link:focus {
   color: #404bbf;
 }
 
