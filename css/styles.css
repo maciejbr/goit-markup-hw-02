@@ -98,7 +98,7 @@ body {
   background-color: var(--color-example);
 }
 
-.section-one {
+.section-hero {
   background-color: var(--color-section1);
 }
 
@@ -106,7 +106,7 @@ body {
   background-color: #f4f4fd;
 }
 
-.heading-one {
+.heading-hero {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
